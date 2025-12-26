@@ -1,6 +1,6 @@
 # open-py-kit
 
-![Build Status](https://github.com/open-py-kit/open-py-kit/actions/workflows/test.yml/badge.svg)
+![Build Status](https://github.com/kuldeep0020/open-py-kit/actions/workflows/test.yml/badge.svg)
 
 A standardized Python toolkit for building robust applications.
 
