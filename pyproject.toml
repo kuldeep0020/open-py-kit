@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = { file = "LICENSE" }
 authors = [
-    { name = "Open Py Kit Contributors", email = "maintainers@openpykit.org" }
+    { name = "Open Py Kit Contributors", email = "kuldeep04kr@gmail.com" }
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
